@@ -1,2 +1,3 @@
 # socket-io
-Estudos
+
+Fazendo minicurso Devpleno de socket io
