@@ -9,14 +9,14 @@
       },
       "bids": [
         {
-          "time": 42,
+          "time": 43,
           "half": 1,
           "team": "Flamengo",
           "subject": "Para Fora",
           "description": "Mais uma excelente oportunidade para o Flamengo. Berrío. Mais oportunidade para o Flamengo. Berrío. Mais uma oportunidade para o Flamengo. Berrío. Mais uma excelente oportunidade para o Flamengo. Berrío."
         },
         {
-          "time": 43,
+          "time": 42,
           "half": 1,
           "team": "Flamengo",
           "subject": "Para Fora",
@@ -28,7 +28,7 @@
         "abbr": "FLA",
         "badge": "logo1.png",
         "supporters": 0,
-        "score": 2,
+        "score": 4,
         "players": [
           {
             "name": "Alex Muralha",
@@ -53,7 +53,7 @@
         "abbr": "CAM",
         "badge": "logo2.png",
         "supporters": 0,
-        "score": 1,
+        "score": 0,
         "players": [
           {
             "name": "Alex Muralha",
